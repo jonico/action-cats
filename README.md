@@ -4,7 +4,7 @@
 
 # Action Cats
 
-- _Trigger it by [GitHub](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/)_
+- _Trigger by [GitHub](https://github.blog/2020-04-09-featured-actions-from-the-github-actions-hackathon/)_
 
 This is a simple Github Action which comments on your PRs with a cat gif as a reward for pushing some code.
 
