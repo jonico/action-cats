@@ -22,6 +22,9 @@ async function run(): Promise<void> {
       issue_number: pullRequestNumber,
       body: message
     })
+    
+    core.setOutput("foo", "bar")
+    core.setOutput("bar", "foo")
   } catch (error) {
     core.setFailed(error.message)
   }
