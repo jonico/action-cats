@@ -22,6 +22,6 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Action Cats
-      uses: ruairidhwm/action-cats@master
+      uses: jonico/action-cats@master
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
